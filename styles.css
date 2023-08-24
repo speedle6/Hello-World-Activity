@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+     text-align: center;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+    color: black;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+/* Customize the Code-It-Solo section */
+h3 {
+    color: black;
+    margin-top: 40px;
+}
+
+/* Add some background color and padding to the poem lines */
+p {
+    background-color: #f2f2f2;
+    padding: 8px;
+    border-radius: 5px;
+}
